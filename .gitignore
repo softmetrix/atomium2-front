@@ -1,0 +1,46 @@
+### FRONTEND DEPENDENCIES ###
+/node_modules
+/.pnp
+/.pnp.js
+
+### FRONTEND TESTING ###
+/coverage
+
+### FRONTEND PRODUCTION ###
+/build
+
+### FRONTEND MISC ###
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+### Artifact ###
+out/
+
+### CUSTOM ###
+configRaw.json
+
+### OS ###
+.DS_Store
+
