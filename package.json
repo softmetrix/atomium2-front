@@ -46,6 +46,7 @@
     "@fortawesome/fontawesome-free": "5.12.1",
     "chart.js": "2.9.3",
     "classnames": "2.2.6",
+    "http-proxy-middleware": "^1.0.5",
     "moment": "2.24.0",
     "node-sass": "4.13.1",
     "nouislider": "14.1.1",
@@ -67,6 +68,5 @@
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.8",
     "typescript": "3.7.5"
-  },
-  "proxy": "http://localhost:52222"
+  }
 }
